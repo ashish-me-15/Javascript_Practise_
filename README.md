@@ -5,3 +5,5 @@ I will be starting with the basics and slowly catch up the topics from basic to 
 I will make folder of every topic and do practise accordingly.
 
 I will also make 2-3 JS project after the revesion of JS topics
+
+I am starting the JS practise session from tomorrow and i will be regular from tomorrow
